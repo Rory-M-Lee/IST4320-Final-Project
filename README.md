@@ -1,1 +1,2 @@
 # IST4320-Final-Project
+For my project I decided to creat an app that allows users to enter their birthdays into a database using buttons for their birth day, month, and year. A function this app has is that it adds all the birthdays together by month, day, and year and allows the user to see which birthday month/day/year is the most popular between the users on the app. This can be used by people as a whole or it could be tailored to see which birthday month/day/year is the most popular between a group of friends or within a company.
